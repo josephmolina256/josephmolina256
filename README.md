@@ -10,8 +10,7 @@ Additionally, I love asking people obscure questions. So if you have strong inte
 - 🌳 Computer and Information Systems Intern at Keep Alachua County Beautiful
 - 🏡 Information Technology Intern at Blanchard Insurance
 ## Languages
-<div flex=row justify-content=space-between
->
+<div flex=row justify-content=center>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=50 width=50 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height=50 width=50 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=50 width=50 />

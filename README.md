@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello world 👋
 
 My name is Joseph Molina and I'm a Computer Science major at the University of Florida🐊. I'm extremely passionate about developer tools and making tech more accessible to everyone. 
 Additionally, I love asking people obscure questions. So if you have strong interests or thoughts that fall between Software Engineering👨‍💻 and what kind of vehicle you would be if you were a Transformer🚙, feel free to reach out!

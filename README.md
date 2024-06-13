@@ -7,7 +7,7 @@ Additionally, I love asking people obscure questions. So if you have strong inte
 
 ## Experience
 - 🤖 Incoming Software Development Engineer Co-op at Amazon Robotics
-- 🚀 Data Science Intern at Collins Aerospace
+- 🚀 Current Data Science Intern at Collins Aerospace
 - 🌳 Computer and Information Systems Intern at Keep Alachua County Beautiful
 - 🏡 Information Technology Intern at Blanchard Insurance
 ## Languages

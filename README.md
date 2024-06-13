@@ -1,4 +1,3 @@
- <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
 ## Hi there 👋
 
 My name is Joseph Molina and I'm a Computer Science major at the University of Florida🐊. I'm extremely passionate about developer tools and making tech more accessible to everyone. 
@@ -34,7 +33,6 @@ Additionally, I love asking people obscure questions. So if you have strong inte
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  height=50 width=50 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"  height=50 width=70 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg"  height=50 width=70 />
-  <i class="devicon-express-original"></i>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg"  height=50 width=50 />
 </div>
 

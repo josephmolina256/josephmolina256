@@ -6,7 +6,7 @@ Additionally, I love asking people obscure questions. So if you have strong inte
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/josephmolina256)
 
 ## Experience
-- 🤖 Current Software Development Engineer Co-op at Amazon Robotics
+- 🤖 Software Development Engineer Co-op at Amazon Robotics
 - 🚀 Data Science/AI Intern at Collins Aerospace
 - 🌳 Computer and Information Systems Intern at Keep Alachua County Beautiful
 - 🏡 Information Technology Intern at Blanchard Insurance

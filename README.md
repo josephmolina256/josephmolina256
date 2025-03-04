@@ -1,5 +1,8 @@
-## Hello, world!👋
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+Joseph+Molina....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 My name is Joseph Molina and I'm a Computer Science major at the University of Florida🐊. I'm extremely passionate about developer tools and making tech more accessible to everyone. 
 Additionally, I love asking people obscure questions. So if you have strong interests or thoughts that fall between Software Engineering👨‍💻 and what kind of vehicle you would be if you were a Transformer🚙, feel free to reach out!
 

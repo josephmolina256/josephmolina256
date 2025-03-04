@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+there!+👋;%20+My+name+is+Joseph+Molina;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+there!+👋;%20+My+name+is+Joseph+Molina...;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 My name is Joseph Molina and I'm a Computer Science major at the University of Florida🐊. I'm extremely passionate about developer tools and making tech more accessible to everyone. 

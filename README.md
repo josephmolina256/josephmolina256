@@ -1,6 +1,8 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=josephmolina256.josephmolina256">
+
 <h1 align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+there!+👋;%20+My+name+is+Joseph+Molina...;Nice+to+meet+you!">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+there!+👋;%20+My+name+is+Joseph+Molina...;Nice+to+meet+you!&size=30">
   </a>
 </h1>
 My name is Joseph Molina and I'm a Computer Science major at the University of Florida🐊. I'm extremely passionate about developer tools and making tech more accessible to everyone. 

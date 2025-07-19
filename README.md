@@ -5,8 +5,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+there!+👋;%20+My+name+is+Joseph+Molina...;Nice+to+meet+you!&size=30">
   </a>
 </h1>
-My name is Joseph Molina and I'm a Computer Science major at the University of Florida🐊. I'm extremely passionate about developer tools and making tech more accessible to everyone. 
-Additionally, I love asking people obscure questions. So if you have strong interests or thoughts that fall between Software Engineering👨‍💻 and what kind of vehicle you would be if you were a Transformer🚙, feel free to reach out!
+My name is Joseph Molina and I'm a Computer Science major at the University of Florida 🐊. I’m especially passionate about applied LLM systems; things like RAG, agentic tool use, vector search, and GraphRAG get me genuinely excited! I love building tools that make complex tech feel intuitive. Additionally, I love asking people obscure questions. So if you have strong opinions that fall between Agentic AI 👨‍💻 and what kind of vehicle you would be if you were a Transformer 🚙, feel free to reach out!
+
+
 <br>
 <br>
 
